@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ITERATORS "
-date:       2019-12-11 20:46:38 +0000
+date:       2019-12-11 15:46:39 -0500
 permalink:  iterators
 ---
 
